@@ -1,7 +1,7 @@
 /*
        +--------------------------------------------------------------+
-       |                  (c) 2016, Antonio Duran                     |
-       |                  antonio.duran@gmail.com                     |
+       |                   (c) 2016, dotorqantico                     |
+       |                  alki1963-github@yahoo.com                   |
        +--------------------------------------------------------------+
        | This  program  is  free  software:  you  can redistribute it |
        | and/or  modify it under the terms of the  GNU General Public |
@@ -24,7 +24,7 @@
  | 1. Identification:
  |    Filename          : thermometer.ino
  |    File Kind         : Arduino Source File
- |    Author            : Antonio Duran
+ |    Author            : Dotorqantico
  |    Creation Date     : 09/10/2016
  |    Current Version   : 1.0
  +------------------------------------------------------------------------------
